@@ -45,6 +45,10 @@ example
 /.vscode/
 /docs/*
 !/docs/開発履歴.md
+!/docs/共有用/
+/docs/共有用/*
+!/docs/共有用/作業履歴.md
+!/docs/共有用/GitHub初回送信報告書.md
 
 # Android machine-specific settings and generated output
 /android/.gradle/
