@@ -1,13 +1,13 @@
 # くらしのストック
 
-開発：Atelier MILE（まいる）
+開発：Atelier MILE
 
 Android向けの在庫・買い物管理アプリです。
 
 ## 公式の案内・配布先
 
-- 公式リポジトリ：[ryokocooking-alt/kaimono-app](https://github.com/ryokocooking-alt/kaimono-app)
-- 今後の公式配布案内：[Releases](https://github.com/ryokocooking-alt/kaimono-app/releases)
+- 公式リポジトリ：[atelier-mile/kaimono-app](https://github.com/atelier-mile/kaimono-app)
+- 今後の公式配布案内：[Releases](https://github.com/atelier-mile/kaimono-app/releases)
 
 2026年11月18日現在、このリポジトリのReleasesには配布用APKを公開していません。配布先は準備中です。公開後は、このREADMEから正式なダウンロード先を案内します。
 
